@@ -1,3 +1,5 @@
+![Grayscale App Screenshot](screenshot.png)
+
 ---
 title: Grayscale Demo
 emoji: 🏆
